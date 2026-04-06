@@ -1,5 +1,6 @@
 # FL Studio Plugin Organizer Pro
 
+NOTE: This project is currently in beta, therefore there may be errors or missing lists.
 
 ## 🇬🇧 English
 
@@ -22,6 +23,8 @@ A professional, high-performance  designed to automatically organize your 3rd pa
 ---
 
 ## 🇹🇷 Türkçe
+
+NOT: Bu proje şu anda beta aşamasındadır, bu nedenle hatalar veya eksik listeler olabilir.
 
 3. parti FL Studio eklentilerinizi otomatik olarak temiz ve mantıklı bir klasör yapısına dönüştüren, profesyonel seviyede bir  masaüstü uygulamasıdır.
 
