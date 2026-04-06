@@ -21,6 +21,14 @@ A professional, high-performance  designed to automatically organize your 3rd pa
 2. **Close FL Studio:** Ensure the DAW is not running.
 3. **Run the App:** Select your preferred mode and hit **ORGANIZE PLUGINS**.
 
+
+$$\color{#58a6ff}{\text{If you encounter any issues or would like to help improve the program,}}$$
+$$\color{#58a6ff}{\text{you can contribute by sending an e-mail to ferdi.zip}\text{@}\text{hotmail.com.}}$$
+
+
+
+
+
 ---
 
 ## 🇹🇷 Türkçe
@@ -42,6 +50,11 @@ NOT: Bu proje şu anda beta aşamasındadır, bu nedenle hatalar veya eksik list
 1. [İndir](https://github.com/ferdiyucelmusic/FL-Studio-Plugin-Organizer/releases/tag/Latest)
 2. **FL Studio'yu Kapatın:** Dosya erişim hatalarını önlemek için DAW'ın kapalı olduğundan emin olun.
 3. **Uygulamayı Çalıştırın:** İstediğiniz modu seçin ve **EKLENTİLERİ DÜZENLE** butonuna basın.
+
+
+$$\color{#58a6ff}{\text{Herhangi bir sorunla karşılaşırsanız veya programı geliştirmeye yardımcı olmak isterseniz,}}$$
+$$\color{#58a6ff}{\text{ferdi.zip}\text{@}\text{hotmail.com adresine bir e-posta göndererek katkıda bulunabilirsiniz.}}$$
+
 
 ---
 *Created by FERDI YUCEL*
