@@ -17,8 +17,9 @@ A professional, high-performance  designed to automatically organize your 3rd pa
 - **Modern UI:** Sleek, Windows 11-inspired dark mode using `sv_ttk`.
 
 ### 📖 How it Works
-1. **Close FL Studio:** Ensure the DAW is not running.
-2. **Run the App:** Select your preferred mode and hit **ORGANIZE PLUGINS**.
+1. [Download](https://github.com/ferdiyucelmusic/FL-Studio-Plugin-Organizer/releases/tag/Latest)
+2. **Close FL Studio:** Ensure the DAW is not running.
+3. **Run the App:** Select your preferred mode and hit **ORGANIZE PLUGINS**.
 
 ---
 
@@ -39,8 +40,10 @@ NOT: Bu proje şu anda beta aşamasındadır, bu nedenle hatalar veya eksik list
 - **Modern Arayüz:** `sv_ttk` ile Windows 11 estetiğinde karanlık tema.
 
 ###  Nasıl Çalışır?
-1. **FL Studio'yu Kapatın:** Dosya erişim hatalarını önlemek için DAW'ın kapalı olduğundan emin olun.
-2. **Uygulamayı Çalıştırın:** İstediğiniz modu seçin ve **EKLENTİLERİ DÜZENLE** butonuna basın.
+
+1. [İndir](https://github.com/ferdiyucelmusic/FL-Studio-Plugin-Organizer/releases/tag/Latest)
+2. **FL Studio'yu Kapatın:** Dosya erişim hatalarını önlemek için DAW'ın kapalı olduğundan emin olun.
+3. **Uygulamayı Çalıştırın:** İstediğiniz modu seçin ve **EKLENTİLERİ DÜZENLE** butonuna basın.
 
 ---
 *Created by FERDI YUCEL*
