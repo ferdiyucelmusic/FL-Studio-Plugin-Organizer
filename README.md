@@ -12,9 +12,6 @@ A professional, high-performance  designed to automatically organize your 3rd pa
   - **Basic Mode:** Simplified grouping for a cleaner workflow.
   - **Brand Mode:** Organized strictly by developer/manufacturer name.
 - **Smart VST/VSTi Detection:** Uses physical path validation to correctly separate instruments (Generators) and effects.
-- **Collision Prevention:** Intelligent fuzzy matching scores (e.g., Massive vs. Supermassive).
-- **Standalone EXE:** Bundled as a single executable with all assets (Icons, Sounds, List) included.
-- **Modern UI:** Sleek, Windows 11-inspired dark mode using `sv_ttk`.
 
 ### 📖 How it Works
 1. [Download](https://github.com/ferdiyucelmusic/FL-Studio-Plugin-Organizer/releases/tag/Latest)
@@ -35,9 +32,7 @@ NOT: Bu proje şu anda beta aşamasındadır, bu nedenle hatalar veya eksik list
   - **Temel Mod:** İş akışını hızlandıran temel gruplandırmalar.
   - **Marka Modu:** Sadece geliştirici/üretici adına göre kategorizasyon.
 - **Akıllı VST/VSTi Ayrımı:** Dosya konumuna bakarak enstrümanları (Generators) ve efektleri hatasız ayırır.
-- **Çakışma Önleme:** Gelişmiş puanlama sistemi ile isim benzerliklerini (Örn: Massive vs. Supermassive) çözer.
-- **Taşınabilir EXE:** Tüm varlıklar (İkon, Sesler, Liste) tek bir .exe dosyasına gömülüdür.
-- **Modern Arayüz:** `sv_ttk` ile Windows 11 estetiğinde karanlık tema.
+
 
 ###  Nasıl Çalışır?
 
