@@ -1,8 +1,11 @@
 # FL Studio Plugin Organizer
 
-NOTE: This project is currently in beta, therefore there may be errors or missing lists.
+<img width="1280" height="720" alt="screenshot" src="https://github.com/user-attachments/assets/8e8d20c3-717e-4de3-82ed-6cb3f11c56fa" />
+
 
 ## 🇬🇧 English
+
+NOTE: This project is currently in beta, therefore there may be errors or missing lists.
 
 A professional, high-performance  designed to automatically organize your 3rd party FL Studio plugins into a clean, logical folder structure.
 
