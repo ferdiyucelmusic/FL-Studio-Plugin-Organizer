@@ -1,4 +1,4 @@
-# FL Studio Plugin Organizer Pro
+# FL Studio Plugin Organizer
 
 NOTE: This project is currently in beta, therefore there may be errors or missing lists.
 
