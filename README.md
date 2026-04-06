@@ -6,7 +6,6 @@
 A professional, high-performance  designed to automatically organize your 3rd party FL Studio plugins into a clean, logical folder structure.
 
 ### 🚀 Key Features
-- **One-Click Organization:** Transform a messy `Installed` folder into a structured hierarchy in seconds.
 - **Three Organization Modes:**
   - **Ultra Mode:** Granular categorization (EQ, Dynamics, Reverb, Delay, etc.).
   - **Basic Mode:** Simplified grouping for a cleaner workflow.
@@ -27,7 +26,6 @@ A professional, high-performance  designed to automatically organize your 3rd pa
 3. parti FL Studio eklentilerinizi otomatik olarak temiz ve mantıklı bir klasör yapısına dönüştüren, profesyonel seviyede bir  masaüstü uygulamasıdır.
 
 ###  Öne Çıkan Özellikler
-- **Tek Tıkla Organizasyon:** Karmaşık `Installed` klasörünü saniyeler içinde düzenli bir hiyerarşiye dönüştürür.
 - **Üç Farklı Organizasyon Modu:**
   - **Ultra Mod:** Detaylı alt kategoriler (EQ, Dinamikler, Reverb, Delay vb.).
   - **Temel Mod:** İş akışını hızlandıran temel gruplandırmalar.
