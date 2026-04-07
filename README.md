@@ -23,7 +23,7 @@ A professional, high-performance  designed to automatically organize your 3rd pa
 
 
 $$\color{#58a6ff}{\text{If you encounter any issues or would like to help improve the program,}}$$
-$$\color{#58a6ff}{\text{you can contribute by sending an e-mail to ferdi.zip}\text{@}\text{hotmail.com.}}$$
+$$\color{#58a6ff}{\text{You can report a bug or make a suggestion on the program screen.}}$$
 
 
 
@@ -53,7 +53,7 @@ NOT: Bu proje şu anda beta aşamasındadır, bu nedenle hatalar veya eksik list
 
 
 $$\color{#58a6ff}{\text{Herhangi bir sorunla karşılaşırsanız veya programı geliştirmeye yardımcı olmak isterseniz,}}$$
-$$\color{#58a6ff}{\text{ferdi.zip}\text{@}\text{hotmail.com adresine bir e-posta göndererek katkıda bulunabilirsiniz.}}$$
+$$\color{#58a6ff}{\text{Program ekranında Hata veya öneri bildiriminde bulunabilirsiniz}}$$
 
 
 ---
